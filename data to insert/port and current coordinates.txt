@@ -1,0 +1,4 @@
+port_lat 51.116124 dover
+port_long 1.319884 dover
+curr_lat 51.107442 dover
+curr_long 1.338515 dover
